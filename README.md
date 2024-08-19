@@ -1,4 +1,3 @@
-# wanted-pre-onboarding-backend
 ## 서비스 개요
 
 - 본 서비스는 기업의 채용을 위한 웹 서비스 입니다.
